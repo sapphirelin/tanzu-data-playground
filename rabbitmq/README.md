@@ -1,4 +1,4 @@
-after install
+after installed:
 
 
 ```
